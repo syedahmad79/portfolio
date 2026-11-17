@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Syed Ahmad Geelani — Full-Stack Developer",
+    "description": "Portfolio of Syed Ahmad Geelani, a full-stack developer and Computer Science (AI) undergraduate in Kuala Lumpur. Explore software projects, creative engineering, and Veltr Studio."
+  },
+  "projects": {
+    "framecheck": {
+      "title": "Framecheck — Browser-based visual QA | Syed Ahmad Geelani",
+      "description": "Case study: Framecheck, a local-first visual QA tool that compares screenshots pixel by pixel in the browser using Pixelmatch, Web Workers, Zustand and IndexedDB."
+    },
+    "synesthesia": {
+      "title": "SYNESTHESIA — Real-time audio visualization | Syed Ahmad Geelani",
+      "description": "Case study: SYNESTHESIA, a browser audio visualizer built with React Three Fiber, custom GLSL shaders, the Web Audio API and an AudioWorklet analysis pipeline."
+    },
+    "parallel": {
+      "title": "PARALLEL — Branching interactive fiction | Syed Ahmad Geelani",
+      "description": "Case study: PARALLEL, an authored branching-narrative app with deterministic state reconstruction, local persistence and strict import validation."
+    }
+  }
+}

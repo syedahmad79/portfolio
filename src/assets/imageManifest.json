@@ -1,0 +1,72 @@
+{
+  "framecheck-ui": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [960, 1600, 2400]
+  },
+  "framecheck-diff": {
+    "width": 2145,
+    "height": 1341,
+    "widths": [960, 1600]
+  },
+  "framecheck-reference": {
+    "width": 1280,
+    "height": 800,
+    "widths": [1280]
+  },
+  "framecheck-implementation": {
+    "width": 1280,
+    "height": 800,
+    "widths": [1280]
+  },
+  "synesthesia-ui": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [960, 1600, 2400]
+  },
+  "synesthesia-galaxy": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "synesthesia-ocean": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "synesthesia-aurora": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "synesthesia-nebula": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "synesthesia-pulse": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "parallel-landing": {
+    "width": 2880,
+    "height": 1640,
+    "widths": [960, 1600, 2400]
+  },
+  "parallel-choices": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "parallel-ending": {
+    "width": 2880,
+    "height": 1620,
+    "widths": [960, 1600, 2400]
+  },
+  "veltr-home": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [640, 1280, 1920]
+  }
+}
