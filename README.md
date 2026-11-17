@@ -1,4 +1,4 @@
-# Syed Ahmad Geelani — Portfolio
+# Syed Ahmad Geelani Portfolio
 
 Personal portfolio of a full-stack developer: three browser-based projects (Framecheck, SYNESTHESIA,
 PARALLEL), about, technical capabilities, experience (including Veltr Studio), education and contact.
